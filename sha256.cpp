@@ -148,7 +148,6 @@ vector<int> convert_512bits_to_16integers(string &s)
     return ret;
 }
 
-
 // Functin to Process the Hash Function, for i'th Message Block
 void process_hash_function(int i, vector<int> &curr_block, vector<array<int,8>> &H, vector<int> &k)
 {
