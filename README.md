@@ -1,3 +1,4 @@
-# sha256
+## SHA-256 Hashing Algorithm
 
-# C++ implementation of the SHA-256 hash according to this specification.
+** Language: ** C++17
+
